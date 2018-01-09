@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.guia{
+    width: 100%;
+    opacity: 0.2;
+    z-index: -1;
+    position: absolute;
+}
+nav{
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.6;
+    position: fixed;
+    z-index: 9999;
+
+}
+img.logo{
+    width: 125px;
+    margin-left: 143px;
+    margin-top: 20px;
+}
+div#botoes{
+    width: 550px;
+    /*margin-right: 120px;*/
+    float: right;
+}
+div#botoes ul#navegacao{
+    margin-left: -33px;
+    color: #FFFFFF;
+}
+ul#navegacao li{
+    display: inline-block;
+    margin-top: 27px;
+    margin-right: 20px;
+    color: #FFFFFF;
+    
+}
+ul#navegacao li a{
+    color: #FFFFFF;
+    font-size: 14px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    color: #FFFFFF;
+}
+ul#navegacao li a:hover{
+    color: #57B55F;
+}
+header{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 250px; 
+    background-image: url("../img/bkg1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 155px;
+    padding-bottom: 300px;
+}
+.slogan{
+    font-size: 70px;
+    margin-bottom: 50px;    
+}
+.btn{
+    color: #FFFFFF;
+    height: 43px;
+    border: none;
+    border-radius: 30px;
+}
+.btn-verde{
+    background-color:#57B55F;
+    width: 320px; 
+}
+.btn-branco{
+    background-color: rgba(0,0,0,0);
+    border: 2px solid #FFFFFF;
+    width: 298px;
+    transition: 0.5s;
+}
+.btn-branco:hover{
+    background-color: #FFFFFF;
+    color: #000000;
+    font-weight: bold;
+}
+/*************************fim do cabeçalho *********/
+section{
+    background-image: url("");
+}
+div#corpo{
+    width: 100%;
+    height: 500px;
+}
+div#corpo div#texto_esquerda{
+    height: inherit;
+    width: 480px;
+    float: left;
+    margin-left: 130px;
+}
+div#texto_esquerda div.paragrafos{  
+    height: 120px;
+}
+div#texto_esquerda div.paragrafos span{ 
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+div#texto_esquerda div.paragrafos h3.subtitulos{    
+    font-weight: bolder;
+    font-size: 26px;
+    margin-bottom: 15px;
+    font-family: 'Days One', sans-serif;
+}
+p#titulo_corpo{
+    font-size: 44px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-family: 'Days One', sans-serif;
+}
+div#corpo div#imagem_corpo{
+    float: right;
+    width: 500px;
+    height: inherit;
+}
+div#imagem_corpo img{
+    height: 480px;
+    margin-left: -100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.guia{
+    width: 100%;
+    opacity: 0.2;
+    z-index: -1;
+    position: absolute;
+}
+nav{
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.6;
+    position: fixed;
+    z-index: 9999;
+
+}
+img.logo{
+    width: 125px;
+    margin-left: 143px;
+    margin-top: 20px;
+}
+div#botoes{
+    width: 550px;
+    /*margin-right: 120px;*/
+    float: right;
+}
+div#botoes ul#navegacao{
+    margin-left: -33px;
+    color: #FFFFFF;
+}
+ul#navegacao li{
+    display: inline-block;
+    margin-top: 27px;
+    margin-right: 20px;
+    color: #FFFFFF;
+    
+}
+ul#navegacao li a{
+    color: #FFFFFF;
+    font-size: 14px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    color: #FFFFFF;
+}
+ul#navegacao li a:hover{
+    color: #57B55F;
+}
+header{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 250px; 
+    background-image: url("../img/bkg1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 155px;
+    padding-bottom: 300px;
+}
+.slogan{
+    font-size: 70px;
+    margin-bottom: 50px;    
+}
+.btn{
+    color: #FFFFFF;
+    height: 43px;
+    border: none;
+    border-radius: 30px;
+}
+.btn-verde{
+    background-color:#57B55F;
+    width: 320px; 
+}
+.btn-branco{
+    background-color: rgba(0,0,0,0);
+    border: 2px solid #FFFFFF;
+    width: 298px;
+    transition: 0.5s;
+}
+.btn-branco:hover{
+    background-color: #FFFFFF;
+    color: #000000;
+    font-weight: bold;
+}
+/*************************fim do cabeçalho *********/
+section{
+    background-image: url("");
+}
+div#corpo{
+    width: 100%;
+    height: 500px;
+}
+div#corpo div#texto_esquerda{
+    height: inherit;
+    width: 480px;
+    float: left;
+    margin-left: 130px;
+}
+div#texto_esquerda div.paragrafos{  
+    height: 120px;
+}
+div#texto_esquerda div.paragrafos span{ 
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+div#texto_esquerda div.paragrafos h3.subtitulos{    
+    font-weight: bolder;
+    font-size: 26px;
+    margin-bottom: 15px;
+    font-family: 'Days One', sans-serif;
+}
+p#titulo_corpo{
+    font-size: 44px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-family: 'Days One', sans-serif;
+}
+div#corpo div#imagem_corpo{
+    float: right;
+    width: 500px;
+    height: inherit;
+}
+div#imagem_corpo img{
+    height: 480px;
+    margin-left: -100px;
+}
+#terceiro {
+    height: 583px;
+    background-image: url("C:/Users/rackadm016/Desktop/Turma2/Semana1/Dia1/Spotify/img/bkg2.jpg");
+    background-size: cover
+    
+
+}
+.mobile{
+    float: right;
+    margin-top: 100px;
+
+
+}
